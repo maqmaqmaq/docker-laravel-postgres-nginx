@@ -9,7 +9,7 @@ use Illuminate\Foundation\Testing\RefreshDatabase;
 
 class RateTest extends TestCase
 {
-    use RefreshDatabase;
+    //use RefreshDatabase;
 
     public function testDatabase()
     {
